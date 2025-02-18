@@ -68,7 +68,7 @@ if __name__ == "__main__":
 
     print("우리집에 오는길 : ", end=' ')
     while True:
-        stone = pop()
+        stone = pop() 
         if stone == None:
             break
         print(stone, "-->", end=' ')
