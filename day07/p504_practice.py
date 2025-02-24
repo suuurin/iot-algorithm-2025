@@ -35,3 +35,6 @@ goldMaze = [[1, 4, 4, 2, 2],
 ## 메인 코드 부분 ##
 macolGold = growRich()
 print(f'황금 미로에서 얻은 최대 황금 개수 --> {macolGold}')
+
+
+
